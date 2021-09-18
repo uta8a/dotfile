@@ -1,0 +1,12 @@
+[remind]
+	root = ~/.ghq/github.com/uta8a
+[ghq]
+	root = ~/.ghq
+[user]
+	email = metro@uta8a.org
+	name = "Masanori Tani"
+	signingkey = D7F2CCF2AC7D464A
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2
